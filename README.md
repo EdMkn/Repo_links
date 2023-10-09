@@ -25,6 +25,6 @@ Links to My repositories using Maven/Springboot
 ## - little-projects
   [Link](https://github.com/EdMkn/little-projects)
 
-# Golang
+# Golang repo_links
 ## - Go-Gin-mongo
  [Link](https://github.com/EdMkn/go-gin-mongo)
