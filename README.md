@@ -1,19 +1,30 @@
-# Maven-repo_links
+# Maven repo_links
 
-Links to My repositories using Springboot
+Links to My repositories using Maven/Springboot
 
 ## - Travel Agency
   [Link](https://github.com/EdMkn/travel_agency)
-
-<!--
-## Java_api_training
-  [Link](https://github.com/EdMkn/java_api_training) -->
-
 ## - Decouplig_java_training  (not Springboot , just simple java)
   [Link](https://github.com/EdMkn/decouplig_java_training)
-
 ## - Amqp_Training
   [Link](https://github.com/EdMkn/amqp_training)
-
 ## - web_app_spring_training 
   [Link](https://github.com/EdMkn/web_app_spring_training)
+
+# Java repo_links
+## - Java_api_training
+  [Link](https://github.com/EdMkn/java_api_training)
+## - BlackJack
+  [Link](https://github.com/EdMkn/BlackJack)
+## - Projet_glpoo_musichub 
+  [Link](https://github.com/EdMkn/Projet_glpoo_musichub)
+## - Projet_Calcul
+  [Link](https://github.com/EdMkn/Projet_Calcul)
+
+# Javascript/typescript repo_links
+## - little-projects
+  [Link](https://github.com/EdMkn/little-projects)
+
+# Golang
+## - Go-Gin-mongo
+ [Link](https://github.com/EdMkn/go-gin-mongo)
