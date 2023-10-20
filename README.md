@@ -25,6 +25,10 @@ Links to My repositories using Maven/Springboot
 ## - little-projects
   [Link](https://github.com/EdMkn/little-projects)
 
+# Symfony repo_Links
+## - Symfony5 Project
+  [Link](https://github.com/EdMkn/Symf5_pjt)
+
 # Golang repo_links
 ## - Go-Gin-mongo
  [Link](https://github.com/EdMkn/go-gin-mongo)
